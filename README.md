@@ -1,50 +1,128 @@
-# Ex.No.4-EXP 4 Generate the Prompt and eveluate that for following prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
-### DATE:                                                                            
-### REGISTER NUMBER : 
-### Aim: To write the prompt for the following prompt types and ompare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
+# 🌟 Ex.No.4 – Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
+## **Generate and Evaluate Prompts for Various Prompt Types**
 
-### Explanation - Any one use case from Unit 5 and write the prompt for that with the unit 2 Prompt types given above.
+### 📅 DATE:  14-09-2025
+### 🆔 REGISTER NUMBER:  212223040135
 
-Procedure:
-1.	Define the Scenario and Use Case:
-Scenario:
-The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency.
-Target Audience:
-Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
+---
 
-Main Objectives:
+## 🎯 **Aim**  
+To write prompts for the following types and compare them with different AI tools, then evaluate them using **Rubric-based evaluation**:  
+1️⃣ **Comparative Analysis Prompt**  
+2️⃣ **Experiential Perspective Prompt**  
+3️⃣ **Everyday Functioning Prompts**  
+4️⃣ **Universal Prompt Structures**  
+5️⃣ **Prompt Size Limitations**
 
-•	Improve production efficiency by 30%.
-•	Minimize machinery downtime with predictive maintenance.
-•	Enable real-time monitoring and remote control of manufacturing systems.
-•	Reduce energy consumption by optimizing processes.
- 
-2.	Identify Prompt Patterns for Each Design Aspect:
-Idea Generation Prompts:
+---
 
-Comparative Analysis Prompt
-Definition: Asking for a comparison between two or more concepts, often highlighting similarities and differences.
-•	"Compare and contrast deep learning and machine learning."
-•	"How do renewable and non-renewable energy sources differ?"
+## 📝 **Explanation**  
 
-Experiential Perspective Prompt:
-> 	“As a software engineer, what are the benefits of using cloud computing in your projects?”
->  “From a student’s perspective, describe the challenges of online learning.”
+### 🏭 **Scenario – Use Case**  
+The **manufacturing industry** is looking to reduce manual monitoring and increase efficiency through **automation**.  
+The system will use **IoT devices** and **embedded controllers** to automate equipment, monitor performance, and enable **predictive maintenance**.  
 
-Everyday Functioning Prompts:
-*	  “Describe the role of machine learning in everyday apps like YouTube or Netflix."
-*	 	“How is encryption used in daily life when sending WhatsApp messages?”
+✅ **Main Objectives:**  
+- 📈 **Improve production efficiency by 30%**  
+- ⚙️ **Minimize machinery downtime** with predictive maintenance  
+- 📊 **Enable real-time monitoring** and remote control of manufacturing systems  
+- 💡 **Reduce energy consumption** by process optimization  
 
-Universal Prompt Structures:
-^ 	“Explain [concept] in simple terms with an example.”
-^  “Explain the process of [task] step by step.”
+**🎯 Target Audience:**  
+Manufacturing companies in **automotive, electronics, and food processing** sectors.  
 
-Prompt Size Limitations:
-&  	“Translate this 5000-word essay into Tamil.”
-→ Manageable chunks: “Translate the first 1000 words into Tamil, then continue.”
-&  “Give me 50 examples of AI applications.”
-→ Adjust for size: “Give me 10 AI applications at a time.”
+---
 
+## 🧩 **Prompt Designs for Each Type**
 
+### 1️⃣ Comparative Analysis Prompt  
+> **Prompt:**  
+🔍 *"Compare and contrast the benefits and limitations of using IoT-based predictive maintenance vs traditional manual maintenance in manufacturing."*
 
-# Result: The various types of Prompts are executed successfully with generated the report.
+✅ **Expected Output:**  
+- Similarities: Both ensure equipment health  
+- Differences: IoT provides real-time data, reduces downtime; manual is slower, error-prone  
+
+---
+
+### 2️⃣ Experiential Perspective Prompt  
+> **Prompt:**  
+👷 *"As a factory operations manager, explain how implementing IoT-driven automation improved production efficiency and reduced downtime."*
+
+✅ **Expected Output:**  
+- Real-world perspective  
+- Practical benefits (energy savings, reduced human error)  
+- Quantifiable results (e.g., 25% downtime reduction)  
+
+---
+
+### 3️⃣ Everyday Functioning Prompt  
+> **Prompt:**  
+📱 *"Describe how IoT-based systems work in real-time to monitor machinery, just like smart home devices track temperature and electricity usage."*
+
+✅ **Expected Output:**  
+- Simple analogy (factory like a ‘smart home’)  
+- Easy-to-understand explanation  
+- Shows connection between daily life and industrial automation  
+
+---
+
+### 4️⃣ Universal Prompt Structure  
+> **Prompt:**  
+📖 *"Explain the process of predictive maintenance step by step, using IoT sensors in a factory."*
+
+✅ **Expected Output:**  
+- Step 1: Sensors collect data  
+- Step 2: Data sent to cloud/edge  
+- Step 3: AI analyzes trends  
+- Step 4: Alerts generated before failure  
+- Step 5: Maintenance scheduled proactively  
+
+---
+
+### 5️⃣ Prompt Size Limitation  
+> **Prompt:**  
+📏 *"List 50 IoT applications in manufacturing that improve efficiency."*  
+➡ **Refined Prompt:**  
+*"List 10 IoT applications in manufacturing at a time until you cover 50."*
+
+✅ **Expected Output:**  
+- Prevents overload  
+- Produces structured response  
+- Easier to analyze in parts  
+
+---
+
+## 📊 **Evaluation (Rubric-Based)**  
+
+| **Criteria**            | **Excellent (5)** | **Good (4)** | **Average (3)** | **Poor (2)** |
+|------------------------|------------------|-------------|---------------|-------------|
+| **Clarity of Prompt**  | Precise, unambiguous | Mostly clear | Somewhat confusing | Very vague |
+| **Relevance**          | Strongly aligned to use case | Relevant | Partially relevant | Off-topic |
+| **Creativity**         | Innovative, real-world relatable | Some creativity | Minimal creativity | Generic |
+| **AI Output Quality**  | Detailed, structured | Good coverage | Lacks depth | Incomplete |
+| **Practical Use**      | Directly implementable | Usable with tweaks | Needs major refinement | Not usable |
+
+✅ **Result:**  
+| Prompt Type | Clarity | Relevance | Creativity | AI Output | Practical Use | **Overall** |
+|------------|--------|-----------|-----------|-----------|-------------|-------------|
+| Comparative Analysis | 5 | 5 | 4 | 5 | 5 | **Excellent** |
+| Experiential Perspective | 5 | 5 | 5 | 5 | 5 | **Excellent** |
+| Everyday Functioning | 4 | 4 | 5 | 4 | 4 | **Good** |
+| Universal Structure | 5 | 5 | 4 | 5 | 5 | **Excellent** |
+| Prompt Size Limitation | 4 | 5 | 4 | 4 | 5 | **Good** |
+
+---
+
+## 🏆 **Result**  
+✅ The various types of prompts were successfully **designed, refined, and evaluated** using rubric-based assessment.  
+💡 The approach provides a **structured way** to create effective prompts for real-world AI applications.  
+
+---
+
+```mermaid
+flowchart LR
+  A[IoT Sensors] --> B[Cloud/Edge Processing]
+  B --> C[AI Model Prediction]
+  C --> D[Maintenance Alerts]
+  D --> E[Reduced Downtime]
